@@ -39,7 +39,7 @@ linux-libc-dev_5.4.132-generic-mptcp-1_amd64.deb
 
 - For use with Amazon AWS
 
-https://kernel.ubuntu.com/~kernel-ppa/config/focal/linux-aws/5.4.0-1037.39/](https://kernel.ubuntu.com/~kernel-ppa/config/focal/linux-aws/5.4.0-1037.39/)
+[https://kernel.ubuntu.com/~kernel-ppa/config/focal/linux-aws/5.4.0-1037.39/](https://kernel.ubuntu.com/~kernel-ppa/config/focal/linux-aws/5.4.0-1037.39/)
 
 ---
 
